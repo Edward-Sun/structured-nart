@@ -1,6 +1,6 @@
 # Fast Structured Decoding for Sequence Models
 
-We are still working on code cleaning of our model, along with [hint-nart](https://github.com/zhuohan123/hint-nart).
+We are still working on code cleaning of our own codebase, along with [hint-nart](https://github.com/zhuohan123/hint-nart).
 
 Jiatao Gu has provided an excellent re-implementation of our model in the [fairseq](https://github.com/pytorch/fairseq/blob/master/examples/nonautoregressive_translation/README.md) repo. We highly recommend you to try it!
 
@@ -16,13 +16,5 @@ Jiatao Gu has provided an excellent re-implementation of our model in the [fairs
   year = {2019},
   publisher = {Curran Associates, Inc.},
   url = {http://papers.nips.cc/paper/8566-fast-structured-decoding-for-sequence-models.pdf}
-}
-```
-```bibtex
-@article{zhou2019understanding,
-  title={Understanding Knowledge Distillation in Non-autoregressive Machine Translation},
-  author={Zhou, Chunting and Neubig, Graham and Gu, Jiatao},
-  journal={arXiv preprint arXiv:1911.02727},
-  year={2019}
 }
 ```
